@@ -1,5 +1,17 @@
 # CrackYourPlacement
 
+## About this Repository
+
+This repository is part of my participation in the "Revise with Arsh" challenge. The goal is to solve a curated set of DSA problems frequently asked in product-based company interviews and online assessments. 
+
+### Extensions Used
+
+To streamline the process, I've used two extensions that allow me to directly commit problem statements and code to this repository. These extensions also help in categorizing the problems based on topics, making it easier to navigate and track progress.
+
+### Note
+
+All the comments written in the code are generated using AI to help easily understand the code and logic behind it. However, the code itself is self-written, with just the comments generated using AI.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
