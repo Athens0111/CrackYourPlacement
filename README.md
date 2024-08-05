@@ -18,6 +18,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -49,4 +51,8 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
