@@ -19,6 +19,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0001-two-sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -36,6 +38,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
 ## Divide and Conquer
