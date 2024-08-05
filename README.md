@@ -25,6 +25,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0001-two-sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
