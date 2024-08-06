@@ -90,4 +90,12 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
