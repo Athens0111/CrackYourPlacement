@@ -20,6 +20,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0001-two-sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,4 +82,12 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Athens0111/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
