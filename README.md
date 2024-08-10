@@ -31,6 +31,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Athens0111/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -59,6 +60,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
@@ -124,5 +126,6 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
