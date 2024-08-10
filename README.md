@@ -83,6 +83,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -100,11 +101,13 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -113,4 +116,8 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
