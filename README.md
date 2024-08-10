@@ -19,6 +19,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0001-two-sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Athens0111/CrackYourPlacement/tree/master/0055-jump-game) |
@@ -34,6 +35,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -49,6 +51,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
