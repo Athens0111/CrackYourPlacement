@@ -46,6 +46,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,8 @@ All the comments written in the code are generated using AI to help easily under
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
