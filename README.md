@@ -131,9 +131,11 @@ All the comments written in the code are generated using AI to help easily under
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Athens0111/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Athens0111/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Athens0111/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
