@@ -115,11 +115,13 @@ All the comments written in the code are generated using AI to help easily under
 | [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
 | ------- |
