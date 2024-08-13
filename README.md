@@ -34,6 +34,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Athens0111/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Athens0111/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0141-linked-list-cycle](https://github.com/Athens0111/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Athens0111/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Prefix Sum
 |  |
 | ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Athens0111/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Athens0111/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
