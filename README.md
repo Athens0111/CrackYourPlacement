@@ -47,6 +47,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Athens0111/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
@@ -122,6 +123,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
