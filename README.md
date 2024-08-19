@@ -22,6 +22,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0015-3sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Athens0111/CrackYourPlacement/tree/master/0055-jump-game) |
@@ -113,6 +114,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -143,6 +145,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
