@@ -35,31 +35,20 @@ public:
             }
         }
 
-        // Append the remaining nodes from list1 (if any)
-        while (list1) {
-            ListNode *temp = new ListNode(list1->val);  // Create a new node with the value from list1
-            if (!ans) {
-                ans = temp;
-                end = ans;
-            } else {
-                end->next = temp;
-                end = end->next;
-            }
-            list1 = list1->next;  // Move to the next node in list1
-        }
-
-        // Append the remaining nodes from list2 (if any)
-        while (list2) {
-            ListNode *temp = new ListNode(list2->val);  // Create a new node with the value from list2
-            if (!ans) {
-                ans = temp;
-                end = ans;
-            } else {
-                end->next = temp;
-                end = end->next;
-            }
-            list2 = list2->next;  // Move to the next node in list2
-        }        
+        // If one of the lists is not exhausted, append the remaining nodes directly to the merged list
+        if (end) {  // If the merged list already has some elements
+            if (list1)  // If there are remaining nodes in list1, link them to the end of the merged list
+                end->next = list1;
+            
+            if (list2)  // If there are remaining nodes in list2, link them to the end of the merged list
+                end->next = list2;
+        } else {  // If the merged list is empty (meaning either list1 or list2 was initially empty)
+            if (list1)  // If list1 has nodes, set ans to point to list1
+                ans = list1;
+            
+            if (list2)  // If list2 has nodes, set ans to point to list2
+                ans = list2;            
+        }       
 
         return ans;  // Return the head of the merged linked list
     }
