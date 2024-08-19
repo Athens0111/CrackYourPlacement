@@ -147,6 +147,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
@@ -157,6 +158,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Athens0111/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Athens0111/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
@@ -167,6 +169,7 @@ All the comments written in the code are generated using AI to help easily under
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Athens0111/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Athens0111/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
