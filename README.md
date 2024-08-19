@@ -22,6 +22,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0015-3sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Athens0111/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Athens0111/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -64,6 +66,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0015-3sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Athens0111/CrackYourPlacement/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
@@ -121,6 +124,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
