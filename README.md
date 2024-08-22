@@ -142,6 +142,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Athens0111/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Athens0111/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## String Matching
@@ -179,4 +180,12 @@ All the comments written in the code are generated using AI to help easily under
 | [0203-remove-linked-list-elements](https://github.com/Athens0111/CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Athens0111/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Athens0111/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
