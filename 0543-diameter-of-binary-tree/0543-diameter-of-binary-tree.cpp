@@ -11,51 +11,21 @@
  */
 class Solution {
 public:
-    int height(TreeNode *root) {
-        // Base case: If the node is a leaf node (no children), return height as 1
-        if (!root->left && !root->right)
-            return 1;
+    int height(TreeNode *root, int &ans) {
+        if(!root)
+            return 0;
 
-        int x = 0, y = 0; // Initialize height of left and right subtrees
+        int leftHeight = height(root->left, ans);
+        int rightHeight = height(root->right, ans);
 
-        // Recursively calculate height of left subtree if it exists
-        if (root->left)
-            x = height(root->left);
+        ans = max(ans, leftHeight+rightHeight);
 
-        // Recursively calculate height of right subtree if it exists
-        if (root->right)
-            y = height(root->right);
-
-        // Return the maximum of left and right subtree heights plus 1 (for the current node)
-        return (x > y ? x : y) + 1;
+        return  max(leftHeight, rightHeight)+1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        // Initialize variables to store the height of the left and right subtrees
         int ans = 0;
-        stack<TreeNode*> stk;
-        stk.push(root);
-        
-        while(!stk.empty()){
-            int left = 0, right = 0;
-            TreeNode *p = stk.top();
-            stk.pop();
-            // Calculate height of the left subtree if it exists
-            if (p->left){        
-                left = height(p->left);
-                stk.push(p->left);
-            }
-
-            // Calculate height of the right subtree if it exists
-            if (p->right){
-                right = height(p->right);
-                stk.push(p->right);
-            }
-
-            if(ans < (left+right))
-                ans = left+right;
-        }
-        // The diameter of the tree is the sum of the heights of the left and right subtrees
+        height(root, ans);
         return ans;
     }
 };
