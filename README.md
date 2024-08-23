@@ -53,6 +53,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0234-palindrome-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Athens0111/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -89,6 +90,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0011-container-with-most-water](https://github.com/Athens0111/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Athens0111/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0151-reverse-words-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Athens0111/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
