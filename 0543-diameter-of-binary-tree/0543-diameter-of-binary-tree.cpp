@@ -12,20 +12,26 @@
 class Solution {
 public:
     int height(TreeNode *root, int &ans) {
-        if(!root)
+        // Base case: If the node is null, return 0 as the height
+        if (!root)
             return 0;
 
+        // Recursively calculate the height of the left subtree
         int leftHeight = height(root->left, ans);
+
+        // Recursively calculate the height of the right subtree
         int rightHeight = height(root->right, ans);
 
-        ans = max(ans, leftHeight+rightHeight);
+        // Update the diameter (ans) if the sum of left and right heights is greater than the current diameter
+        ans = max(ans, leftHeight + rightHeight);
 
-        return  max(leftHeight, rightHeight)+1;
+        // Return the height of the current node, which is the maximum height of its subtrees plus 1
+        return max(leftHeight, rightHeight) + 1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int ans = 0;
-        height(root, ans);
-        return ans;
+        int ans = 0;  // Initialize the diameter (ans) as 0
+        height(root, ans);  // Calculate the height of the tree and update the diameter in the process
+        return ans;  // Return the diameter of the binary tree
     }
 };
