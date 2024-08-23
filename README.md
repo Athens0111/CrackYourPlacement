@@ -144,6 +144,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0020-valid-parentheses](https://github.com/Athens0111/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Athens0111/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Athens0111/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Athens0111/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -194,16 +195,19 @@ All the comments written in the code are generated using AI to help easily under
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Athens0111/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Athens0111/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Athens0111/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Athens0111/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Athens0111/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Athens0111/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
