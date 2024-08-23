@@ -188,4 +188,16 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Athens0111/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
