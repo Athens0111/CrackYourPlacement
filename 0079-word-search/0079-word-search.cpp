@@ -5,11 +5,11 @@ bool result(vector<vector<char>>& board, string word, int i, int j, int pos) {
     int m = board[0].size();
 
     // If out of bounds or current cell doesn't match the current character
-    if (i < 0 || j < 0 || i >= n || j >= m || board[i][j] != word[pos])
+    if (i < 0 || j < 0 || i >= n || j >= m || board[i][j]=='*' || board[i][j] != word[pos])
         return false;
     
     // If all characters are matched
-    if (pos == word.size() - 1)
+    if (pos == word.size()-1)
         return true;
 
     // Mark the cell as visited
