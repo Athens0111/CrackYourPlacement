@@ -27,6 +27,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Athens0111/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Athens0111/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Athens0111/CrackYourPlacement/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -120,6 +121,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Athens0111/CrackYourPlacement/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Athens0111/CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Athens0111/CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Athens0111/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -214,4 +217,8 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Athens0111/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Athens0111/CrackYourPlacement/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
