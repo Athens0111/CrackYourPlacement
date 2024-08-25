@@ -98,6 +98,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Athens0111/CrackYourPlacement/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
@@ -166,6 +167,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0002-add-two-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -236,4 +238,8 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Athens0111/CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
