@@ -32,6 +32,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Athens0111/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Athens0111/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -122,6 +123,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0048-rotate-image](https://github.com/Athens0111/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Athens0111/CrackYourPlacement/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Athens0111/CrackYourPlacement/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -205,6 +207,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Athens0111/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Athens0111/CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Athens0111/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Athens0111/CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -221,4 +224,12 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Athens0111/CrackYourPlacement/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Athens0111/CrackYourPlacement/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Athens0111/CrackYourPlacement/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
