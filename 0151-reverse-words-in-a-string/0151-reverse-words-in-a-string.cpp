@@ -1,43 +1,32 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int i=0, j=s.size()-1;
         int n = s.size();
-
-        while(i<j){
-            swap(s[i], s[j]);
-            i++;
-            j--;
+        
+        // Step 1: Trim leading, trailing, and extra spaces in between
+        int i = 0, j = 0;
+        while (j < n) {
+            // Skip leading spaces
+            while (j < n && s[j] == ' ') j++;
+            if (j < n && i > 0) s[i++] = ' ';  // Add one space between words
+            // Copy the word
+            while (j < n && s[j] != ' ') s[i++] = s[j++];
         }
-        cout<<"'"<<s<<"'";
-        for(int i=0;i<n;i++){
-            if(s[i] == ' ')
-                continue;
-            int j=i;
-            while(j<n-1 && s[j+1] != ' ')
-                j++;
-            int temp = j;
-            while(i<j){
-                swap(s[i], s[j]);
-                i++;j--;
+        s.resize(i);  // Resize to remove trailing spaces if any
+        
+        // Step 2: Reverse the entire string
+        reverse(s.begin(), s.end());
+
+        // Step 3: Reverse each word in the reversed string
+        int start = 0;
+        for (int end = 0; end <= s.size(); ++end) {
+            // When we reach the end of a word or the string
+            if (end == s.size() || s[end] == ' ') {
+                reverse(s.begin() + start, s.begin() + end);
+                start = end + 1;
             }
-            i = temp +1;
-            if(i<n)
-                s[i] = '@';
         }
-        j = n-1;
-        while(s[j] == '@' || s[j] == ' ')
-            s[j--] = ' ';
-        i=0;
-        while(s[i] != '\0'){
-            if(s[i] == ' ')
-                s.erase(s.begin()+i);
-            else if(s[i] == '@')
-                s[i++] = ' ';
-            else
-                i++;
-        }
-
+        
         return s;
     }
 };
