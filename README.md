@@ -42,6 +42,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0733-flood-fill](https://github.com/Athens0111/CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Athens0111/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Athens0111/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1622-max-value-of-equation](https://github.com/Athens0111/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +119,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Athens0111/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1622-max-value-of-equation](https://github.com/Athens0111/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Athens0111/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [1622-max-value-of-equation](https://github.com/Athens0111/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Tree
 |  |
 | ------- |
@@ -269,4 +272,12 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Athens0111/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Athens0111/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
