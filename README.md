@@ -37,6 +37,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Athens0111/CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Athens0111/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -84,6 +85,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,4 +253,20 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Athens0111/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
