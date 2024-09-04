@@ -71,6 +71,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0049-group-anagrams](https://github.com/Athens0111/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Athens0111/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Athens0111/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Athens0111/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Sorting
@@ -109,6 +110,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0070-climbing-stairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0070-climbing-stairs](https://github.com/Athens0111/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Athens0111/CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Athens0111/CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Athens0111/CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -281,6 +284,7 @@ All the comments written in the code are generated using AI to help easily under
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Athens0111/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [1622-max-value-of-equation](https://github.com/Athens0111/CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Monotonic Queue
 |  |
