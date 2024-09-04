@@ -111,6 +111,7 @@ All the comments written in the code are generated using AI to help easily under
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Athens0111/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/Athens0111/CrackYourPlacement/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/Athens0111/CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ All the comments written in the code are generated using AI to help easily under
 | ------- |
 | [0067-add-binary](https://github.com/Athens0111/CrackYourPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Athens0111/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Athens0111/CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
